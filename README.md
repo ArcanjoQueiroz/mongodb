@@ -1,5 +1,7 @@
 # MongoDB 4.0.17 Docker Image
 
+[![Build Status](https://travis-ci.com/ArcanjoQueiroz/mongodb.svg?branch=master)](https://travis-ci.com/ArcanjoQueiroz/mongodb)
+
 This is a **MongoDB 4.0.17** Docker Image with **authentication enabled**. 
 
 In order to configure a Mongodb user you should configure the **MONGO_USERNAME**, **MONGO_PASSWORD** and **MONGO_DATABASE** environment variables. See:
